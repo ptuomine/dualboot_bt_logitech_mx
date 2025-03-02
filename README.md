@@ -8,6 +8,8 @@ This works atleast on Logitech MX Anywhere 2S mouse and Logitech K850 keyboard.
 - the updated info file is saved to generated dir
 - update the directory paths in the main method
 
+NOTE: You will have to change the bluetooth device mac address in your linux configuration to match with the windows one
+
 
 ## generate_info.py
 
